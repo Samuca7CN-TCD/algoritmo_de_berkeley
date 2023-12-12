@@ -2,15 +2,11 @@
 
 ## Disciplina
 
-Sistemas Distribuídos
-
-Professor: Paulo André Sperandio Giacomin
+Sistemas Distribuídos (Paulo André Sperandio Giacomin)
 
 ## Autor
 
-Samuel Correia Nascimento
-
-Matrícula: 201920081
+Samuel Correia Nascimento (201920081)
 
 ## Escolha da Linguagem Python
 
